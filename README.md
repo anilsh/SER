@@ -92,6 +92,19 @@ If this code helps your research, please cite the following work which made it p
   year =         {2019}
 }
 
+@INPROCEEDINGS {9232593,
+author = {A. Sharma and M. K. Pal and S. Anand and S. K. Kaul},
+booktitle = {2020 IEEE Sixth International Conference on Multimedia Big Data (BigMM)},
+title = {Stratified Sampling Based Experience Replay for Efficient Camera Selection Decisions},
+year = {2020},
+pages = {144-151},
+doi = {10.1109/BigMM50055.2020.00029},
+url = {https://doi.ieeecomputersociety.org/10.1109/BigMM50055.2020.00029},
+publisher = {IEEE Computer Society}
+}
+
+
+
 ```
 
 ## License
