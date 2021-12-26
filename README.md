@@ -1,5 +1,5 @@
 
-# Stratified Experience Replay (SER) 
+# Stratified Experience Replay (SER) with Deep Q learning
 ** PyTorch implementation of our paper titled _Stratified Sampling Based Experience Replay for Efficient Camera Selection Decisions_,  2020 
 
 _Anil Sharma, Mayank Pal, Saket Anand, Sanjit K. Kaul_
