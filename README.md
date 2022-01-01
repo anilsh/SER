@@ -25,7 +25,7 @@ We have converted all datasets into trajectory files and only these are used by 
 
 ## Running the tracker
 
-In scripts folder, run ```Q_SER_db4_test.ipynb``` to run the pretrained models, the script runs for NLPR set-4. To change the dataset, change the variable ```db_no```. The details of the dataset can be checked from ```get_pid_test_train.py``` in data folder.  
+In scripts folder, run ```Q_SER_db4_test.ipynb``` to run with the pretrained models, the script runs for NLPR set-4. To change the dataset, change the variable ```db_no```. The details of the dataset can be checked from ```get_pid_test_train.py``` in data folder.  
 
 
 ### Dependencies
