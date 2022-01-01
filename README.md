@@ -1,6 +1,6 @@
 
 # Stratified Experience Replay (SER) with Deep Q learning
-** PyTorch implementation of our paper titled _Stratified Sampling Based Experience Replay for Efficient Camera Selection Decisions_,  2020 
+** PyTorch implementation of our paper titled _Stratified Sampling Based Experience Replay for Efficient Camera Selection Decisions_,  2020 **
 
 _Anil Sharma, Mayank Pal, Saket Anand, Sanjit K. Kaul_
 
@@ -25,7 +25,7 @@ We have converted all datasets into trajectory files and only these are used by 
 
 ## Running the tracker
 
-In scripts folder, run ```Q_SER_db4_test.ipynb``` to run the pretrained models, the script runs for NLPR set-4. To change the dataset, change the variable ```db_no``. The details of the dataset can be checked from ```get_pid_test_train.py``` in data folder.  
+In scripts folder, run ```Q_SER_db4_test.ipynb``` to run the pretrained models, the script runs for NLPR set-4. To change the dataset, change the variable ```db_no```. The details of the dataset can be checked from ```get_pid_test_train.py``` in data folder.  
 
 
 ### Dependencies
@@ -44,6 +44,7 @@ In folder 'plots', you will find notebook to reproduce all analysis figure repor
 
 To train a model from scratch, use ```Q_SER_db4_train.ipynb``` to train SER based policy for NLPR set-4. To train for a different dataset, change ```db_no``` in the notebook accordingly. 
 
+---
 
 If this code helps your research, please cite the following work which made it possible.
 
