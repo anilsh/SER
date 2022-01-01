@@ -18,9 +18,9 @@ The code is organized as follows:
 
 ### NLPR MCT benchmark dataset
 
-Download the dataset from the [[official website](http://mct.idealtest.org/Datasets.html)] . This dataset contains four sub-datasets and we have used all four in our method.
-
+Download the dataset from the [[official website](http://mct.idealtest.org/Datasets.html)] . This dataset contains four sub-datasets and we have used all four in our method. 
 We have converted all datasets into trajectory files and only these are used by our method. These are placed in ```data``` folder and necessary scripts are provided to read the files and training/testing split.
+
 ---
 
 ## Running the tracker
